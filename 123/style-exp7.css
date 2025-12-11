@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+.Navigation{
+    margin: 0;
+    padding: 0%;
+}
+
+
+.txt1{
+    background-color: silver;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    text-align: center;
+}
+
+.Highlight{
+    color: red;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.navbar ul li a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    background-color: rgb(0, 213, 255); padding: 5px;
+    color: #000;
+}
+
+.navbar2 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.navbar2 ul li a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    background-color: rgb(68, 196, 4); padding: 5px;
+    color: #000;
+}
